@@ -2,4 +2,4 @@
 # RestfulAPI-Hapi
 <br>
 Membangun Restful API Open Music menggunakan framework hapi pada Nodejs.
-Let's go!
+Let's go, gaes! Hello world!
